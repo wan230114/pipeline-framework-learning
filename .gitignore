@@ -1,0 +1,8 @@
+test/
+nextflow/.nextflow*
+nextflow/any/
+nextflow/bug-find/
+nextflow/data/
+nextflow/work/
+nextflow/demo1/work/
+nextflow/demo1/.nextflow*
